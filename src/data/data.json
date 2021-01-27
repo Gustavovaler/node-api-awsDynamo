@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Gustavo", 
+        "id": 1,
+        "apellido": "Valerio",
+        "edad": 43,
+        "email": "gustavovaler@gmail.com"
+    },
+    {
+        "name": "Cecilia", 
+        "id": 8,
+        "apellido": "Oviedo",
+        "edad": 19,
+        "email": "laceci10@gmail.com"
+    },
+    {
+        "name": "Cosme", 
+        "id": 2,
+        "apellido": "Fulanito",
+        "edad": 43,
+        "email": "fulanocomico@gmail.com"
+    },
+    {
+        "name": "Daiana", 
+        "id": 3,
+        "apellido": "Valerio",
+        "edad": 23,
+        "email": "daivalerr@gmail.com"
+    },
+    {
+        "name": "Martin", 
+        "id": 4,
+        "apellido": "Calarna",
+        "edad": 33,
+        "email": "mcalarna21@gmail.com"
+    },{
+        "name": "Miguel", 
+        "id": 5,
+        "apellido": "Fuentes",
+        "edad": 22,
+        "email": "miguef@gmail.com"
+    }
+]
